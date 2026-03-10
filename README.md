@@ -75,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANSA-tech/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
