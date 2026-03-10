@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANSA-tech/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/MANSA-tech/leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MANSA-tech/leetcode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/MANSA-tech/leetcode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
