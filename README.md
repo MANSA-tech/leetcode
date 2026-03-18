@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MANSA-tech/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MANSA-tech/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MANSA-tech/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANSA-tech/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/MANSA-tech/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANSA-tech/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MANSA-tech/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/MANSA-tech/leetcode/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
