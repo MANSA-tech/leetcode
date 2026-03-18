@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANSA-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MANSA-tech/leetcode/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANSA-tech/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MANSA-tech/leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/MANSA-tech/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANSA-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MANSA-tech/leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANSA-tech/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/MANSA-tech/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANSA-tech/leetcode/tree/master/1004-max-consecutive-ones-iii) |
