@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MANSA-tech/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MANSA-tech/leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MANSA-tech/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MANSA-tech/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/MANSA-tech/leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/MANSA-tech/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MANSA-tech/leetcode/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/MANSA-tech/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MANSA-tech/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MANSA-tech/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
