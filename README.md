@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANSA-tech/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MANSA-tech/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MANSA-tech/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MANSA-tech/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/MANSA-tech/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MANSA-tech/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MANSA-tech/leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/MANSA-tech/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MANSA-tech/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MANSA-tech/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/MANSA-tech/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MANSA-tech/leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/MANSA-tech/leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MANSA-tech/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/MANSA-tech/leetcode/tree/master/1903-largest-odd-number-in-string) |
