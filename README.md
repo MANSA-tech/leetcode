@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANSA-tech/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MANSA-tech/leetcode/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/MANSA-tech/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANSA-tech/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MANSA-tech/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANSA-tech/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -202,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MANSA-tech/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MANSA-tech/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
