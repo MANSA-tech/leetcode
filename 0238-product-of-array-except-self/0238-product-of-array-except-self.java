@@ -7,7 +7,8 @@ class Solution {
 
          left[0]=1;
          for(int i=1;i<n;i++){
-            left[i]=left[i-1]*nums[i-1];
+            left[i]=left[i-1]*nums[i-1];  //current element nums[i] include nahi hoga ❌
+//uske pehle tak sab include honge ✅
          }
            right[n - 1] = 1;
 
